@@ -1,0 +1,12 @@
+.card-bio {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    border-bottom: 1px solid;
+    margin-top: 28px;
+}
+
+.cart-footer {
+    align-items: center;
+    text-align: center;
+}
